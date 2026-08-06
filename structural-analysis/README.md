@@ -8,7 +8,7 @@ The work was developed mainly using MSC Patran/Nastran, MATLAB and Python, with 
 
 ## Projects
 
-- [FEM Validation Against Analytical Models](), <br>
+- [FEM Validation Against Analytical Models](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP1_STR_FEM_Some_Typical_Analysis.pdf), <br>
 - [Minimum-Mass Satellite Tray Optimization](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP2_STR_FEM_Optimal_Tray.pdf), <br>
 - [Microsatellite FEM Structural Analysis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP3_STR_FEM_Satellite.pdf), <br>
 - [Craig–Bampton Component Mode Synthesis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TT1_STR_Craig_Bampton.pdf), <br>
