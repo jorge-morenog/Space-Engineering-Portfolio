@@ -8,5 +8,5 @@ The work was developed using ESATAN-TMS, MATLAB and Python, with emphasis on the
 
 ## Projects
 
-- EBOX–Radiator Thermal Analysis
-- CubeSat 3U Thermal Design Using ESATAN-TMS
+- [EBOX–Radiator Thermal Analysis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/thermal-engineering/1_THERM_Conduction.pdf), <br>
+- [CubeSat 3U Thermal Design Using ESATAN-TMS](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/thermal-engineering/2_THERM_ESATAN-TMS.pdf). <br>
