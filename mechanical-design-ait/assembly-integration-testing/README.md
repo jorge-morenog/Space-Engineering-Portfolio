@@ -8,7 +8,7 @@ The work includes assembly planning, mechanical integration, cleanliness practic
 
 ## Projects
 
-### [CubeSat 1U Assembly and Integration Procedure](./cubesat-assembly-procedure/CubeSat_1U_Assembly_Procedure.pdf)
+### [CubeSat 1U Assembly and Integration Procedure](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/assembly-integration-testing/T1_AIT_Assembly.pdf)
 
 Preparation and execution of a detailed assembly procedure for a CubeSat 1U educational model.
 
@@ -25,7 +25,7 @@ Main activities include:
 - Installation of closing panels and solar-cell supports
 - Identification of tolerances, accessibility constraints and assembly risks
 
-### [Qualification Vibration Test Specification and Procedure](./vibration-test-specification-procedure/Ebox_Vibration_Test_Specification_and_Procedure.pdf)
+### [Qualification Vibration Test Specification and Procedure](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/assembly-integration-testing/T2_AIT_Testing_TSPE_%26_TPRO.pdf)
 
 Definition of the test specification and test procedure for qualification-level sinusoidal and random vibration testing of a dummy spacecraft electronics box.
 
