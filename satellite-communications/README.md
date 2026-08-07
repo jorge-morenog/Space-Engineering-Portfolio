@@ -13,6 +13,12 @@ Analysis of a multi-orbit LEO–MEO communication architecture inspired by IRIS�
 - LEO–LEO and LEO–MEO inter-satellite links
 - EIRP, G/T, throughput and system-level trade-offs
 
+<p align="center">
+  <img src="Images/T3_COM_Constellation_Overview.png" width="30%">
+  <img src="Images/T3_COM_Longest-Pass_AER.png" width="30%">
+  <img src="Images/T3_COM_User-to_LEO_LinkMargin.png" width="30%">
+</p>
+
 ### Satellite Constellation Routing and Inter-Satellite Link Analysis
 
 Design and analysis of a Walker Star constellation with dynamic ground and inter-satellite communications.
