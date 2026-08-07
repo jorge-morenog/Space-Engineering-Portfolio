@@ -37,4 +37,14 @@ Assembly planning, sinusoidal/random vibration testing and FEM-test correlation.
   <img src="mechanical-design-ait/assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="40%">
 </p>
 
+5. [Space Systems Engineering — Project Management, Risks and Preliminary Mission Design](./systems-engineering/)
+   Requirements, system architecture, preliminary design and subsystem trade-offs.
+
+<p align="center">
+  <img src="Images/T2_ISG_Gantt_Phase_C.png" width="38%">
+  <img src="Images/T2_ISG_WBS.png" width="24%">
+  <img src="Images/T3_ISG_Risks.png" width="38%">
+</p>
+
+
 > These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
