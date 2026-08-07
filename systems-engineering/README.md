@@ -8,6 +8,6 @@ These activities were developed as multidisciplinary team projects within the MS
 
 ## Projects
 
-- BlueHorizon Systems Requirements Definition
-- BlueHorizon Project Planning and Work Breakdown Structure
-- BlueHorizon Preliminary Mission and Spacecraft Design
+- [BlueHorizon Systems Requirements Definition](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T1_ISG_System_Requirements_Document.pdf), <br>
+- [BlueHorizon Project Planning and Work Breakdown Structure](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T2_ISG_Work_Breakdown_Structure_%26_Gantt.pdf), <br>
+- [BlueHorizon Preliminary Mission and Spacecraft Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T3_ISG_Preliminary_Mission_Design.pdf). <br>
