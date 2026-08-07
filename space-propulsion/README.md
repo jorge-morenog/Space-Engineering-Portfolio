@@ -9,9 +9,26 @@ The work includes analytical modelling, thermodynamic cycle analysis, combustion
 ## Projects
 
 - [Solid Rocket Motor Performance Analysis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T1_Rocket_Engine_Solid_Propellant.pdf)
+
+<p align="center">
+  <img src="Images/T1_PEL_Solid_propellant_Section.png" width="30%">
+  <img src="Images/T1_PEL_Solid_Thrust_tail_phase.png" width="30%">
+</p>
+
 - [Gas-Generator Liquid Rocket Engine Cycle Optimization](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T2_Rocket_Engine_Liquid_Propellant-Turbo.pdf)
+
+<p align="center">
+  <img src="Images/T2_Turbo_Scheme.png" width="30%">
+  <img src="Images/T2_Turbo_dV_maximization.png" width="30%">
+</p>
+
 - [Pressure-Fed Hydrazine Propulsion System](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T3_Rocket_Engine_Liquid_Propellant-Pressurized.pdf)
 - [RL10 Performance and Off-Design Analysis Using PROOSIS](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T4_Rocket_Engine_Liquid_Propellant-PROOSIS.pdf)
+
+<p align="center">
+  <img src="Images/T4_PROOSIS_Turbo_Scheme.png" width="60%">
+</p>
+
 - [Electrostatic Propulsion System for LEO-to-GEO Transfer](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T5_Rocket_Engine_Electrostatic.pdf)
 
 ## Main Topics
