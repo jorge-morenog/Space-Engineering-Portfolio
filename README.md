@@ -36,3 +36,5 @@ Assembly planning, sinusoidal/random vibration testing and FEM-test correlation.
   <img src="mechanical-design-ait/assembly-integration-testing/Images/AIT_Assy_Trays.png" width="30%">
   <img src="mechanical-design-ait/assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="40%">
 </p>
+
+> These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
