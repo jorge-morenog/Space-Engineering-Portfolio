@@ -14,9 +14,9 @@ Analysis of a multi-orbit LEOâ€“MEO communication architecture inspired by IRISÂ
 - EIRP, G/T, throughput and system-level trade-offs
 
 <p align="center">
-  <img src="Images/T3_COM_Constellation_Overview.png" width="30%">
-  <img src="Images/T3_COM_Longest-Pass_AER.png" width="30%">
-  <img src="Images/T3_COM_User-to_LEO_LinkMargin.png" width="30%">
+  <img src="Images/T3_COM_Constellation_Overview.png" width="25%">
+  <img src="Images/T3_COM_Longest-Pass_AER.png" width="35%">
+  <img src="Images/T3_COM_User-to_LEO_LinkMargin.png" width="35%">
 </p>
 
 ### Satellite Constellation Routing and Inter-Satellite Link Analysis
