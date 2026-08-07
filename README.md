@@ -6,17 +6,17 @@ Selected space engineering projects in structural analysis, spacecraft mechanica
 FEM modelling, modal/quasi-static/vibration analysis, model verification.
 
 <p align="center">
-  <img src="Images/TP3_FEM_Satellite_Model.png" width="33%">
-  <img src="Images/TP3_FEM_Satellite_Modal.png" width="33%">
-  <img src="Images/TP3_FEM_Satellite_Axial_1D_stresses.png" width="33%">
+  <img src="structural-analysis/Images/TP3_FEM_Satellite_Model.png" width="33%">
+  <img src="structural-analysis/Images/TP3_FEM_Satellite_Modal.png" width="33%">
+  <img src="structural-analysis/Images/TP3_FEM_Satellite_Axial_1D_stresses.png" width="33%">
 </p>
 
 2. [3U CubeSat Thermal Design — ESATAN-TMS](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/thermal-engineering/2_THERM_ESATAN-TMS.pdf) <br>
 Orbital environment, thermal mathematical model, hot/cold cases.
 
 <p align="center">
-  <img src="Images/T2_TCM_ESATAN_Satellite_Overview.png" width="30%">
-  <img src="Images/T2_TCM_ESATAN_Orbit_HOT_Temps.png" width="35%">
+  <img src="thermal-engineering/Images/T2_TCM_ESATAN_Satellite_Overview.png" width="30%">
+  <img src="thermal-engineering/Images/T2_TCM_ESATAN_Orbit_HOT_Temps.png" width="35%">
 </p>
 
 
@@ -27,6 +27,6 @@ Parametric trays, modular architecture, harness routing and interfaces.
 Assembly planning, sinusoidal/random vibration testing and FEM-test correlation.
 
 <p align="center">
-  <img src="assembly-integration-testing/Images/AIT_Assy_Trays.png" width="30%">
-  <img src="assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="40%">
+  <img src="mechanical-design-ait/assembly-integration-testing/Images/AIT_Assy_Trays.png" width="30%">
+  <img src="mechanical-design-ait/assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="40%">
 </p>
