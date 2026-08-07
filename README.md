@@ -20,8 +20,14 @@ Orbital environment, thermal mathematical model, hot/cold cases.
 </p>
 
 
-3. [Parametric & Modular Spacecraft CAD] <br>
+3. [Parametric & Modular Spacecraft CAD](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T1_CAD_Parametric_Satellite_Tray.pdf) <br>
 Parametric trays, modular architecture, harness routing and interfaces.
+
+<p align="center">
+  <img src="mechanical-design-ait/assembly-integration-testing/Images/T3_IGA_SatModular_LowModule.png" width="30%">
+  <img src="mechanical-design-ait/assembly-integration-testing/Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width="45%">
+</p>
+
 
 4. [Assembly, Integration & Vibration Testing — ECSS](https://github.com/jorge-morenog/Space-Engineering-Portfolio/tree/main/mechanical-design-ait/assembly-integration-testing) <br>
 Assembly planning, sinusoidal/random vibration testing and FEM-test correlation.
