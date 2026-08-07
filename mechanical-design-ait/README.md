@@ -12,7 +12,7 @@ The work includes mechanical interface definition, manufacturability, cleanlines
 
 <p align="center">
   <img src="assembly-integration-testing/Images/AIT_Assy_CAD_Exploded.png" width="33%">
-  <img src="assembly-integration-testing/Images/AIT_Assy_Trays.png" width="33%">
+  <img src="assembly-integration-testing/Images/AIT_Assy_Trays.png" width="25%">
   <img src="assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="33%">
 </p>
 
