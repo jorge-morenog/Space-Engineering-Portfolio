@@ -27,5 +27,5 @@ The work includes mechanical interface definition, manufacturability, cleanlines
 
 <p align="center">
   <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Overview.png" width="33%">
-  <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Flattening.png" width="25%">
+  <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Flattening.png" width="40%">
 </p>
