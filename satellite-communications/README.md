@@ -48,6 +48,12 @@ Main activities include:
 - Comparison against GEO communications latency
 - GSL selection trade-offs
 
+<p align="center">
+  <img src="Images/T2_COM_Walker-Star_Overview.png" width="30%">
+  <img src="Images/T2_COM_Mad-Bos_Graph.png" width="30%">
+  <img src="Images/T2_COM_Mad-Bos_Latency.png" width="30%">
+</p>
+
 ### [Satellite Orbit, Ground Access and Link Dynamics Analysis](./orbit-access-link-analysis/Orbit_Access_Link_Analysis.pdf)
 
 Orbital and communications analysis of an Earth-observation CubeSat using real TLE data.
@@ -67,6 +73,13 @@ Main activities include:
 - Free-space propagation losses
 - Link latency
 - Doppler-shift assessment
+
+<p align="center">
+  <img src="Images/T1_COM_SatAccess.png" width="30%">
+  <img src="Images/T1_COM_Az-El.png" width="30%">
+  <img src="Images/T1_COM_Doppler-Shift.png" width="30%">
+</p>
+
 
 ## Tools and Methods
 
