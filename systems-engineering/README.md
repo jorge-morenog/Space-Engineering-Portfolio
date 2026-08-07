@@ -28,3 +28,5 @@ These activities were developed as multidisciplinary team projects within the MS
   <img src="Images/T3_ISG_Risks.png" width="40%">
   <img src="Images/T3_ISG_Costs.png" width="28%">
 </p>
+
+> These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
