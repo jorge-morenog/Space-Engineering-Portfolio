@@ -11,8 +11,8 @@ The work includes analytical modelling, thermodynamic cycle analysis, combustion
 - [Solid Rocket Motor Performance Analysis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T1_Rocket_Engine_Solid_Propellant.pdf)
 
 <p align="center">
-  <img src="Images/T1_PEL_Solid_propellant_Section.png" width="30%">
-  <img src="Images/T1_PEL_Solid_Thrust_tail_phase.png" width="30%">
+  <img src="Images/T1_PEL_Solid_propellant_Section.png" width="20%">
+  <img src="Images/T1_PEL_Solid_Thrust_tail_phase.png" width="35%">
 </p>
 
 - [Gas-Generator Liquid Rocket Engine Cycle Optimization](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/space-propulsion/T2_Rocket_Engine_Liquid_Propellant-Turbo.pdf)
