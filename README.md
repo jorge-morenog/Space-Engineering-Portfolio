@@ -41,9 +41,9 @@ Assembly planning, sinusoidal/random vibration testing and FEM-test correlation.
    Requirements, system architecture, preliminary design and subsystem trade-offs.
 
 <p align="center">
-  <img src="systems-engineering/Images/T2_ISG_Gantt_Phase_C.png" width="38%">
+  <img src="systems-engineering/Images/T2_ISG_Gantt_Phase_C.png" width="33%">
   <img src="systems-engineering/Images/T2_ISG_WBS.png" width="24%">
-  <img src="systems-engineering/Images/T3_ISG_Risks.png" width="38%">
+  <img src="systems-engineering/Images/T3_ISG_Risks.png" width="33%">
 </p>
 
 
