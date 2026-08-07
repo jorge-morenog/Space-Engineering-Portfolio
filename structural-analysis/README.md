@@ -10,6 +10,11 @@ The work was developed mainly using MSC Patran/Nastran, MATLAB and Python, with 
 
 - [FEM Validation Against Analytical Models](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP1_STR_FEM_Some_Typical_Analysis.pdf), <br>
 
+<p align="center">
+  <img src="Images/TP1_EUE_Mass_System_Scheme.png" width="40%">
+  <img src="Images/TP1_EUE_Mass_System_numerical_acce_m3.png" width="40%">
+</p>
+
 - [Minimum-Mass Satellite Tray Optimization](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP2_STR_FEM_Optimal_Tray.pdf), <br>
 
 <p align="center">
@@ -27,7 +32,17 @@ The work was developed mainly using MSC Patran/Nastran, MATLAB and Python, with 
 
 
 - [Craig–Bampton Component Mode Synthesis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TT1_STR_Craig_Bampton.pdf), <br>
+
+<p align="center">
+  <img src="Images/TT1_EUE_CraigBampton_Reduction_criteria.png" width="40%">
+  <img src="Images/TT1_EUE_CraigBampton_Reduced_vs_Complete_result.png" width="40%">
+</p>
+
 - [Vibroacoustic Analysis Using SEA](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TT2_STR_Vibroacoustics.pdf). <br>
 
+<p align="center">
+  <img src="Images/TT2_EUE_Vibroacoustics_SEA_application_band.png" width="40%">
+  <img src="Images/TT2_EUE_Vibroacoustics_SEA_results.png" width="40%">
+</p>
 
 > These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
