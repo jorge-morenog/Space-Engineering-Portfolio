@@ -24,6 +24,7 @@ These activities were developed as multidisciplinary team projects within the MS
 - [BlueHorizon Preliminary Mission and Spacecraft Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T3_ISG_Preliminary_Mission_Design.pdf). <br>
 
 <p align="center">
+  <img src="Images/T3_ISG_Uplink_Schematic_Illustration.png" width="35%">
   <img src="Images/T3_ISG_Risks.png" width="45%">
-  <img src="Images/T3_ISG_Costs.png" width="45%">
+  <img src="Images/T3_ISG_Costs.png" width="25%">
 </p>
