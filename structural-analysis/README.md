@@ -28,3 +28,6 @@ The work was developed mainly using MSC Patran/Nastran, MATLAB and Python, with 
 
 - [Craig–Bampton Component Mode Synthesis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TT1_STR_Craig_Bampton.pdf), <br>
 - [Vibroacoustic Analysis Using SEA](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TT2_STR_Vibroacoustics.pdf). <br>
+
+
+> These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
