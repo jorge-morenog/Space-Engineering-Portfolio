@@ -16,9 +16,9 @@ The study compares two spacecraft attitude strategies: solar arrays continuously
 
 
 <p align="center">
-  <img src="Images/T1_GGE_Satellite_Solar_Panels_Scheme.png" width="30%"> 
-  <img src="Images/T1_GGE_Beta-angle_Scheme.png" width="30%">
-  <img src="Images/T1_GGE_In-Orbit_Solar_Incidence.png" width="30%">
+  <img src="Images/T1_GGE_Satellite_Solar_Panels_Scheme.png" width="20%"> 
+  <img src="Images/T1_GGE_Beta-angle_Scheme.png" width="35%">
+  <img src="Images/T1_GGE_In-Orbit_Solar_Incidence.png" width="40%">
 </p>
 
 ### [Triple-Junction Solar-Cell Modelling and In-Orbit Degradation](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/electrical-power-systems/GGE_T2_TJCells_IV_Modelling_Degradation.pdf)
@@ -29,13 +29,13 @@ The project includes experimental-data fitting, comparison of several photovolta
 
 
 <p align="center">
-  <img src="Images/T2_GGE_Comparative_Study_Models_IV-curve_AzurSpaceTJCell.png" width="30%">
-  <img src="Images/T2_GGE_Models_Mean-Cuadratic_Normalized-Error_AzurSpaceTJCell.png" width="30%">
+  <img src="Images/T2_GGE_Comparative_Study_Models_IV-curve_AzurSpaceTJCell.png" width="45%">
+  <img src="Images/T2_GGE_Models_Mean-Cuadratic_Normalized-Error_AzurSpaceTJCell.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="Images/T2_GGE_SolarPanel_Current_diff-Temperatures_vs_Effective-Solar_Irradiance.png" width="30%">
-  <img src="Images/T2_GGE_In-Orbit_Current_Degradation.png" width="30%">
+  <img src="Images/T2_GGE_SolarPanel_Current_diff-Temperatures_vs_Effective-Solar_Irradiance.png" width="45%">
+  <img src="Images/T2_GGE_In-Orbit_Current_Degradation.png" width="45%">
 </p>
 
 ## Main Topics
