@@ -4,7 +4,7 @@ Selected projects in satellite communications, orbital analysis and constellatio
 
 ## Projects
 
-### [LEO–MEO Satellite Communications and Adaptive Coding & Modulation](./leo-meo-communications-acm/LEO_MEO_Communications_ACM_Analysis.pdf)
+### LEO–MEO Satellite Communications and Adaptive Coding & Modulation
 
 Analysis of a multi-orbit LEO–MEO communication architecture inspired by IRIS².
 
@@ -13,7 +13,7 @@ Analysis of a multi-orbit LEO–MEO communication architecture inspired by IRIS�
 - LEO–LEO and LEO–MEO inter-satellite links
 - EIRP, G/T, throughput and system-level trade-offs
 
-### [Satellite Constellation Routing and Inter-Satellite Link Analysis](./constellation-routing-isl/Constellation_Routing_ISL_Analysis.pdf)
+### Satellite Constellation Routing and Inter-Satellite Link Analysis
 
 Design and analysis of a Walker Star constellation with dynamic ground and inter-satellite communications.
 
@@ -28,7 +28,7 @@ Design and analysis of a Walker Star constellation with dynamic ground and inter
   <img src="Images/T2_COM_Mad-Bos_Latency.png" width="25%">
 </p>
 
-### [Satellite Orbit, Ground Access and Link Dynamics Analysis](./orbit-access-link-analysis/Orbit_Access_Link_Analysis.pdf)
+### Satellite Orbit, Ground Access and Link Dynamics Analysis
 
 Orbital and communications analysis of an Earth-observation CubeSat using real TLE data.
 
@@ -47,4 +47,4 @@ Orbital and communications analysis of an Earth-observation CubeSat using real T
 
 MATLAB · Satellite Communications Toolbox · TLE/Keplerian propagation · Link-budget analysis · Graph-based routing · ACM
 
-> Academic projects developed as part of the MSc in Space Systems at UPM.
+> These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
