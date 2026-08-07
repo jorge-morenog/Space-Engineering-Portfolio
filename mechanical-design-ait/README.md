@@ -29,3 +29,6 @@ The work includes mechanical interface definition, manufacturability, cleanlines
   <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Overview.png" width="33%">
   <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Flattening.png" width="60%">
 </p>
+
+> These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
+
