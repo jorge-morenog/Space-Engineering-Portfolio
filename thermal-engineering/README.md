@@ -20,5 +20,5 @@ The work was developed using ESATAN-TMS, MATLAB and Python, with emphasis on the
 <p align="center">
   <img src="Images/T2_TCM_ESATAN_Satellite_Overview.png" width="30%">
   <img src="Images/T2_TCM_ESATAN_Contact_Zone.png" width="30%">
-  <img src="Images/T2_TCM_ESATAN_Orbit_HOT_Temps.png" width="30%">
+  <img src="Images/T2_TCM_ESATAN_Orbit_HOT_Temps.png" width="35%">
 </p>
