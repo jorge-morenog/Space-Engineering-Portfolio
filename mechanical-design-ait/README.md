@@ -9,6 +9,7 @@ The work includes mechanical interface definition, manufacturability, cleanlines
 ## Projects
 
 - [Assembly, Integration and Testing](./assembly-integration-testing/)
+
 ![AIT_CAD_Exploded](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/assembly-integration-testing/Images/AIT_Assy_CAD_Exploded.png)
 - [Parametric Satellite Tray Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T1_CAD_Parametric_Satellite_Tray.pdf), <br>
 - Modular Microsatellite Mechanical Design, <br>
