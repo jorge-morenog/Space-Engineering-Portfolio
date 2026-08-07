@@ -22,3 +22,5 @@ The work was developed using ESATAN-TMS, MATLAB and Python, with emphasis on the
   <img src="Images/T2_TCM_ESATAN_Contact_Zone.png" width="30%">
   <img src="Images/T2_TCM_ESATAN_Orbit_HOT_Temps.png" width="35%">
 </p>
+
+> These projects were developed in an academic context as part of the MSc in Space Systems.
