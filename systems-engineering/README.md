@@ -9,5 +9,21 @@ These activities were developed as multidisciplinary team projects within the MS
 ## Projects
 
 - [BlueHorizon Systems Requirements Definition](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T1_ISG_System_Requirements_Document.pdf), <br>
+
+<p align="center">
+  <img src="Images/T1_ISG_Requirements_convention.png" width="30%">
+</p>
+
 - [BlueHorizon Project Planning and Work Breakdown Structure](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T2_ISG_Work_Breakdown_Structure_%26_Gantt.pdf), <br>
+
+<p align="center">
+  <img src="Images/T2_ISG_Gantt_Phase_C.png" width="30%">
+  <img src="Images/T2_ISG_WBS.png" width="30%">
+</p>
+
 - [BlueHorizon Preliminary Mission and Spacecraft Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/systems-engineering/T3_ISG_Preliminary_Mission_Design.pdf). <br>
+
+<p align="center">
+  <img src="Images/T3_ISG_Risks.png" width="30%">
+  <img src="Images/T3_ISG_Costs.png" width="30%">
+</p>
