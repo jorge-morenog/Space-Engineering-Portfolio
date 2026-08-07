@@ -1,96 +1,50 @@
 # Satellite Communications and Constellation Analysis
 
-This section presents selected projects related to satellite communications, orbital access analysis and multi-satellite network architectures, developed during the MSc in Space Systems at UPM.
-
-The projects cover satellite orbit propagation, ground-station visibility, communication-link geometry, inter-satellite links, constellation design and routing, RF link budgets and Adaptive Coding and Modulation.
-
-The work was developed mainly using MATLAB and the Satellite Communications Toolbox, combining orbital simulation, communication-system modelling, network analysis and engineering trade-offs.
+Selected projects in satellite communications, orbital analysis and constellation networking, developed during the MSc in Space Systems at UPM using MATLAB and the Satellite Communications Toolbox.
 
 ## Projects
 
 ### [LEO–MEO Satellite Communications and Adaptive Coding & Modulation](./leo-meo-communications-acm/LEO_MEO_Communications_ACM_Analysis.pdf)
 
-Communication-system analysis of a multi-orbit LEO–MEO architecture inspired by the IRIS² constellation.
+Analysis of a multi-orbit LEO–MEO communication architecture inspired by IRIS².
 
-The project includes constellation definition, ground-to-LEO Ka-band link budgeting, adaptive MODCOD selection, throughput estimation and RF inter-satellite link analysis between LEO–LEO and LEO–MEO spacecraft.
-
-Main activities include:
-
-- LEO and MEO constellation definition and coverage analysis
-- Ground-to-satellite access analysis
-- Ka-band uplink link budget
-- EIRP and G/T calculation
-- C/N and link-margin assessment
+- Ka-band link budget and access analysis
 - Adaptive Coding and Modulation (ACM)
-- MODCOD selection and throughput estimation
-- RF inter-satellite link analysis
-- LEO–MEO transmitter and receiver dimensioning
-- Power, antenna and ADCS trade-offs
+- LEO–LEO and LEO–MEO inter-satellite links
+- EIRP, G/T, throughput and system-level trade-offs
 
 ### [Satellite Constellation Routing and Inter-Satellite Link Analysis](./constellation-routing-isl/Constellation_Routing_ISL_Analysis.pdf)
 
-Design and analysis of a Walker Star constellation and its associated ground and inter-satellite communication network.
+Design and analysis of a Walker Star constellation with dynamic ground and inter-satellite communications.
 
-The project includes constellation phasing, ground-station visibility, antenna-resource assessment, inter-plane and intra-plane ISL topology generation, graph-based routing and end-to-end latency analysis.
-
-Main activities include:
-
-- Walker Star constellation generation
-- Phasing-factor calculation
-- Ground-station visibility analysis
-- Simultaneous-access assessment
-- Ground-station antenna sizing trade-offs
-- Intra-plane and inter-plane ISL definition
-- Dynamic satellite network topology generation
+- Walker constellation and ground-station access
+- Intra-plane and inter-plane ISL topology
 - Graph-based shortest-path routing
-- Hop-count analysis
-- End-to-end LEO latency assessment
-- Comparison against GEO communications latency
-- GSL selection trade-offs
+- End-to-end latency and LEO–GEO comparison
 
 <p align="center">
-  <img src="Images/T2_COM_Walker-Star_Overview.png" width="30%">
-  <img src="Images/T2_COM_Mad-Bos_Graph.png" width="30%">
-  <img src="Images/T2_COM_Mad-Bos_Latency.png" width="30%">
+  <img src="Images/T2_COM_Walker-Star_Overview.png" width="40%">
+  <img src="Images/T2_COM_Mad-Bos_Graph.png" width="25%">
+  <img src="Images/T2_COM_Mad-Bos_Latency.png" width="25%">
 </p>
 
 ### [Satellite Orbit, Ground Access and Link Dynamics Analysis](./orbit-access-link-analysis/Orbit_Access_Link_Analysis.pdf)
 
 Orbital and communications analysis of an Earth-observation CubeSat using real TLE data.
 
-The project evaluates orbit characteristics, ground tracks, visibility from multiple ground stations, data-download capacity, inter-satellite access and communication-link dynamics throughout satellite passes.
-
-Main activities include:
-
-- TLE-based orbit propagation
-- Sun-synchronous orbit assessment
-- Ground-track visualization
-- Ground-station access analysis
-- Pass duration and maximum-latency evaluation
-- Downlink data-capacity estimation
-- Inter-satellite link availability
-- Azimuth, elevation and range analysis
-- Free-space propagation losses
-- Link latency
-- Doppler-shift assessment
+- Orbit propagation and ground-station visibility
+- Access duration and data-download capacity
+- AER, free-space losses and latency
+- Doppler-shift analysis
 
 <p align="center">
-  <img src="Images/T1_COM_SatAccess.png" width="30%">
-  <img src="Images/T1_COM_Az-El.png" width="30%">
-  <img src="Images/T1_COM_Doppler-Shift.png" width="30%">
+  <img src="Images/T1_COM_SatAccess.png" width="25%">
+  <img src="Images/T1_COM_Az-El.png" width="35%">
+  <img src="Images/T1_COM_Doppler-Shift.png" width="35%">
 </p>
 
+## Tools
 
-## Tools and Methods
+MATLAB · Satellite Communications Toolbox · TLE/Keplerian propagation · Link-budget analysis · Graph-based routing · ACM
 
-- MATLAB
-- Satellite Communications Toolbox
-- Orbital propagation from TLE and Keplerian elements
-- Walker constellation modelling
-- Graph-based network routing
-- Link-budget analysis
-- Adaptive Coding and Modulation
-- RF inter-satellite links
-- Ground-segment access analysis
-
-> These projects were developed in an academic context as part of the MSc in Space Systems at UPM. Some activities were completed individually and others as team projects.
+> Academic projects developed as part of the MSc in Space Systems at UPM.
