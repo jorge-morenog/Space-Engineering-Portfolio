@@ -14,6 +14,7 @@ The work was developed mainly using MSC Patran/Nastran, MATLAB and Python, with 
 
 <p align="center">
   <img src="Images/TP2_FEM_Optimal_Tray.png" width="40%">
+  <img src="Images/TP2_FEM_Optimal_Tray_First_Mode.png" width="40%">
 </p>
 
 - [Microsatellite FEM Structural Analysis](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP3_STR_FEM_Satellite.pdf), <br>
