@@ -2,7 +2,7 @@
 Selected space engineering projects in structural analysis, spacecraft mechanical design, thermal engineering, systems engineering and AIT, developed during the MSc in Space Systems at UPM using MSC Patran/Nastran, CATIA V5, ESATAN-TMS, MATLAB and Python.
 
 ## Featured projects: 
-1. Spacecraft Structural Analysis — MSC Patran/Nastran](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP3_STR_FEM_Satellite.pdf) <br>
+1. [Spacecraft Structural Analysis — MSC Patran/Nastran](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/structural-analysis/TP3_STR_FEM_Satellite.pdf) <br>
 FEM modelling, modal/quasi-static/vibration analysis, model verification.
 
 2. [3U CubeSat Thermal Design — ESATAN-TMS](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/thermal-engineering/2_THERM_ESATAN-TMS.pdf) <br>
