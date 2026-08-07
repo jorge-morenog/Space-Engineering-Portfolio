@@ -17,5 +17,15 @@ The work includes mechanical interface definition, manufacturability, cleanlines
 </p>
 
 - [Parametric Satellite Tray Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T1_CAD_Parametric_Satellite_Tray.pdf), <br>
+
+<p align="center">
+  <img src="assembly-integration-testing/Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width=50%">
+</p>
+
 - Modular Microsatellite Mechanical Design, <br>
 - [Satellite Harness Routing](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T2_CAD_Satellite_Harness_Routing.pdf). <br>
+
+<p align="center">
+  <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Overview.png" width="33%">
+  <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Flattening.png" width="25%">
+</p>
