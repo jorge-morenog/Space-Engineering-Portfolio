@@ -31,6 +31,13 @@ Parametric CAD design of a modular microsatellite structure with configurable ge
 - Equipment accommodation and mechanical interfaces
 - CarboNIX C8 separation-system adapter
 
+<p align="center">
+  <img src="assembly-integration-testing/Images/Images/T3_IGA_SatModular_LowModule.png" width="33%">
+  <img src="assembly-integration-testing/Images/Images/T3_IGA_SatModular_LowModule_2.png" width="33%">
+  <img src="assembly-integration-testing/Images/Images/T3_IGA_SatModular_LowModule_3.png" width="33%">
+</p>
+
+
 ### [Satellite Harness Routing](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T2_CAD_Satellite_Harness_Routing.pdf). <br>
 
 <p align="center">
