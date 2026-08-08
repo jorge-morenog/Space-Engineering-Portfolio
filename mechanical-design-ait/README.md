@@ -8,7 +8,7 @@ The work includes mechanical interface definition, manufacturability, cleanlines
 
 ## Projects
 
-- [Assembly, Integration and Testing](./assembly-integration-testing/)
+### [Assembly, Integration and Testing](./assembly-integration-testing/)
 
 <p align="center">
   <img src="assembly-integration-testing/Images/AIT_Assy_CAD_Exploded.png" width="33%">
@@ -16,14 +16,22 @@ The work includes mechanical interface definition, manufacturability, cleanlines
   <img src="assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="33%">
 </p>
 
-- [Parametric Satellite Tray Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T1_CAD_Parametric_Satellite_Tray.pdf), <br>
+### [Parametric Satellite Tray Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T1_CAD_Parametric_Satellite_Tray.pdf), <br>
 
 <p align="center">
   <img src="assembly-integration-testing/Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width=50%">
 </p>
 
-- Modular Microsatellite Mechanical Design, <br>
-- [Satellite Harness Routing](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T2_CAD_Satellite_Harness_Routing.pdf). <br>
+### [Modular Microsatellite Mechanical Design](T3_IGA_Modular_Satellite_UnitD.pdf) <br>
+
+Parametric CAD design of a modular microsatellite structure with configurable geometry and launcher interface.
+
+- Modular trays, shear panels, closing panels and separators
+- Parametric square/hexagonal configurations
+- Equipment accommodation and mechanical interfaces
+- CarboNIX C8 separation-system adapter
+
+### [Satellite Harness Routing](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T2_CAD_Satellite_Harness_Routing.pdf). <br>
 
 <p align="center">
   <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Overview.png" width="33%">
