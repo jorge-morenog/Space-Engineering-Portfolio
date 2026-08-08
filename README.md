@@ -25,7 +25,7 @@ Parametric trays, modular architecture, harness routing and interfaces.
 
 <p align="center">
   <img src="mechanical-design-ait/assembly-integration-testing/Images/T3_IGA_SatModular_LowModule.png" width="30%">
-  <img src="mechanical-design-ait/assembly-integration-testing/Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width="55%">
+  <img src="mechanical-design-ait/Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width="55%">
 </p>
 
 4. [Assembly, Integration & Vibration Testing — ECSS](https://github.com/jorge-morenog/Space-Engineering-Portfolio/tree/main/mechanical-design-ait/assembly-integration-testing) <br>
