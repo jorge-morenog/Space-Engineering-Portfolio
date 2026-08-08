@@ -1,14 +1,12 @@
 # Spacecraft Mechanical Design and AIT
 
-This section presents selected projects related to spacecraft mechanical design, equipment integration and Assembly, Integration and Testing activities.
-
-The projects cover parametric CAD design, modular spacecraft architecture, equipment accommodation, harness routing, assembly planning, physical integration and qualification-level mechanical testing.
-
-The work includes mechanical interface definition, manufacturability, cleanliness practices, step-by-step assembly documentation, sinusoidal and random vibration test preparation, instrumentation definition and correlation between finite element models and physical tests.
+Selected projects in spacecraft mechanical design, parametric CAD, equipment integration and Assembly, Integration and Testing, developed during the MSc in Space Systems at UPM.
 
 ## Projects
 
 ### [Assembly, Integration and Testing](./assembly-integration-testing/)
+
+Spacecraft assembly, integration and qualification-level mechanical testing.
 
 <p align="center">
   <img src="assembly-integration-testing/Images/AIT_Assy_CAD_Exploded.png" width="33%">
@@ -16,34 +14,36 @@ The work includes mechanical interface definition, manufacturability, cleanlines
   <img src="assembly-integration-testing/Images/AIT_Assy_Solar_Panel.png" width="33%">
 </p>
 
-### [Parametric Satellite Tray Design](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T1_CAD_Parametric_Satellite_Tray.pdf), <br>
-
-<p align="center">
-  <img src="assembly-integration-testing/Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width=50%">
-</p>
-
-### [Modular Microsatellite Mechanical Design](T3_IGA_Modular_Satellite_UnitD.pdf) <br>
+### [Modular Microsatellite Mechanical Design](./T3_IGA_Modular_Satellite_UnitD.pdf)
 
 Parametric CAD design of a modular microsatellite structure with configurable geometry and launcher interface.
 
 - Modular trays, shear panels, closing panels and separators
-- Parametric square/hexagonal configurations
+- Parametric square and hexagonal configurations
 - Equipment accommodation and mechanical interfaces
 - CarboNIX C8 separation-system adapter
 
 <p align="center">
-  <img src="assembly-integration-testing/Images/Images/T3_IGA_SatModular_LowModule.png" width="33%">
-  <img src="assembly-integration-testing/Images/Images/T3_IGA_SatModular_LowModule_2.png" width="33%">
-  <img src="assembly-integration-testing/Images/Images/T3_IGA_SatModular_LowModule_3.png" width="33%">
+  <img src="Images/T3_IGA_SatModular_LowModule.png" width="33%">
+  <img src="Images/T3_IGA_SatModular_LowModule_2.png" width="33%">
+  <img src="Images/T3_IGA_SatModular_LowModule_3.png" width="33%">
 </p>
 
+### [Parametric Satellite Tray Design](./T1_CAD_Parametric_Satellite_Tray.pdf)
 
-### [Satellite Harness Routing](https://github.com/jorge-morenog/Space-Engineering-Portfolio/blob/main/mechanical-design-ait/T2_CAD_Satellite_Harness_Routing.pdf). <br>
+Parametric spacecraft tray design with configurable geometry, stiffening layout and equipment accommodation.
 
 <p align="center">
-  <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Overview.png" width="33%">
-  <img src="assembly-integration-testing/Images/CAD_Harness_Routing_Flattening.png" width="60%">
+  <img src="Images/CAD_Parametric_Tray_Multiple_Functionalities.png" width="50%">
 </p>
 
-> These projects were developed in an academic context as part of the MSc in Space Systems. Some were completed individually and others as team projects.
+### [Satellite Harness Routing](./T2_CAD_Satellite_Harness_Routing.pdf)
 
+CATIA V5 harness integration including connector definition, 3D routing and manufacturing flattening.
+
+<p align="center">
+  <img src="Images/CAD_Harness_Routing_Overview.png" width="33%">
+  <img src="Images/CAD_Harness_Routing_Flattening.png" width="60%">
+</p>
+
+> Academic projects developed as part of the MSc in Space Systems at UPM. Some were completed individually and others as team projects.
